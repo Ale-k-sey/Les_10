@@ -1,6 +1,6 @@
 body{
     background-image: none;
-    background-color: gray;
+    background-color: rgb(197, 184, 184);
 }
 
 /* Button_____ */
@@ -147,4 +147,20 @@ body{
 
 .btn-group .btn-danger{
     width: 80%;
+}
+
+
+/* bstp-template________ */
+
+.container-xxl {
+    background-color: var(--bs-white);
+    padding: 5px;
+}
+
+.row {
+    background-color: var(--bs-gray);   
+}
+
+.sect-mod {
+    background-color: var(--bs-gray-dark);   
 }
