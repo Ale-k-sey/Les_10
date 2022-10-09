@@ -1,5 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink&display=swap');
-/* @import url(/Les_8/css/table-tags.css); */
+
+@import url('nth-child.css');
+@import url('bootstrap-5.css');
+
 
 :root{
     --backgroundcolor-table-tags: black;
